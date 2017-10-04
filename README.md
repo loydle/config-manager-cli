@@ -23,11 +23,11 @@ add the following line to ~/.bash_profile
 
 #### Add config files
 
-`$ ln ~/config_file ~/.personal_bin/config_file`
+`$ ln ~/config_file ~/.personal_config/config_file`
 
 example:
 
-`$ ln ~/.vimrc ~/.personal_bin/vimrc`
+`$ ln ~/.vimrc ~/.personal_config/vimrc`
  
 
 
