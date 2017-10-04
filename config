@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# USAGE: config [arg] 
+
+# store argument
+data=$@
+
+# find linked file name in config folder
+file=$(ls ~/.personal_config/ | grep $data)
+
+# use vim to edit config file
+vim ~/.personal_config/$file 2> /dev/null
+
+
+
