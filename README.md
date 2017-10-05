@@ -15,9 +15,7 @@ Edit any config file with one command
 ### Install 
 Git clone
 
-copy .personal_bin to ~/
-
-copy .personal_config  to ~/ 
+copy `.personal_bin` and `.personal_config`  to *~/* 
 
 add the following line to ~/.bash_profile 
 
