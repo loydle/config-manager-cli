@@ -32,9 +32,9 @@ export PATH=$PATH:.:$HOME/.personal_bin:
 
 ```
 
-#### Add config files
+#### Add own configuration files
 
-`$ ln ~/[your_config_file] ~/.personal_config/[your_config_file]`
+`$ ln ~/[path][config_file] ~/.personal_config/[config_file]`
 
 example:
 
