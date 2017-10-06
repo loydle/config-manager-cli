@@ -13,13 +13,22 @@ Edit any config file with one command
 
 
 ### Install 
-Git clone
 
-copy `.personal_bin` and `.personal_config`  to *~/* 
+`$ git clone https://github.com/loydle/config-manager-cli.git`
+
+`$ chmod 755 ~/.personal_bin/config`
+
+`$ cp config-manager-cli/.personal_bin ~/.personal_bin `
+
+`$ cp config-manager-cli/.personal_config ~/.personal_config `
+
+`$ vim ~/.bash_script`
 
 add the following line to ~/.bash_profile 
 
-    export PATH=$PATH:.:$HOME/.personal_bin:
+```bash
+    export PATH=$PATH:.:$HOME/.personal_bin:
+```
 
 #### Add config files
 
