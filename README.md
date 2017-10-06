@@ -1,3 +1,4 @@
+
 ### config-manager-cli 
 Edit any config file with one command
 
@@ -27,7 +28,8 @@ Edit any config file with one command
 add the following line to ~/.bash_profile 
 
 ```bash
-    export PATH=$PATH:.:$HOME/.personal_bin:
+export PATH=$PATH:.:$HOME/.personal_bin:
+
 ```
 
 #### Add config files
