@@ -10,7 +10,7 @@ Edit any config file with one command
 `$ config hy`
 
 ### Usage
- `$ config [arg]`  
+ `$ config [config_name]`  
 
 
 ### Install 
