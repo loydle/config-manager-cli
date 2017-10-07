@@ -26,7 +26,7 @@
 
 `$ [vim] ~/.bash_script`
 
-add the following line to ~/.bash_profile 
+add the following line to * ~/.bash_profile *
 
 ```bash
 export PATH=$PATH:.:$HOME/.personal_bin:
