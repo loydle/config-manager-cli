@@ -1,8 +1,7 @@
 
 # config-manager-cli 
-Edit all your config file in one command :raised_hands:
+> Edit all your config file in one command :raised_hands:
 
-----------
  examples of use: 	
  
 `$ config hyper.js`  
