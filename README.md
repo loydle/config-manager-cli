@@ -1,6 +1,6 @@
 
 ### config-manager-cli 
-Edit any config file with one command
+Edit all your config file in one command :raised_hands:
 
 ----------
  examples of use: 	
@@ -40,7 +40,7 @@ example:
 
 `$ ln ~/.vimrc ~/.personal_config/vimrc`
  
- 
+ ## Done! :beers:
  ------------
  
  ### MIT License
