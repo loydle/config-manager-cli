@@ -1,5 +1,5 @@
 
-### config-manager-cli 
+# config-manager-cli 
 Edit all your config file in one command :raised_hands:
 
 ----------
@@ -9,11 +9,11 @@ Edit all your config file in one command :raised_hands:
 `$ config hype`  
 `$ config hy`
 
-### Usage
+## Usage
  `$ config [config_name]`  
 
 
-### Install 
+## Install 
 
 `$ git clone https://github.com/loydle/config-manager-cli.git`
 
@@ -32,7 +32,7 @@ export PATH=$PATH:.:$HOME/.personal_bin:
 
 ```
 
-#### Add own configuration files
+### Add own configuration files
 
 `$ ln ~/[path][config_file] ~/.personal_config/[config_file]`
 
@@ -40,7 +40,7 @@ example:
 
 `$ ln ~/.vimrc ~/.personal_config/vimrc`
  
- ## Done! :beers:
+ ### Done! :beers:
  ------------
  
  ### MIT License
