@@ -16,6 +16,7 @@
 
 `$ git clone https://github.com/loydle/config-manager-cli.git`
 
+rEad msg
 `$ mkdir -p ~/.personal_bin ;  mkdir -p ~/.personal_config`
 
 `$ cp config-manager-cli/.personal_bin ~/.personal_bin `
@@ -65,5 +66,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
 
