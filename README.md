@@ -16,21 +16,20 @@
 
 `$ git clone https://github.com/loydle/config-manager-cli.git`
 
-rEad msg
-`$ mkdir -p ~/.personal_bin ;  mkdir -p ~/.personal_config`
+`$  mkdir -p ~/.personal_config`
 
-`$ cp config-manager-cli/.personal_bin ~/.personal_bin `
+`$ cp config-manager-cli/.personal_bin/config /usr/local/bin/config `
 
 `$ cp config-manager-cli/.personal_config ~/.personal_config `
 
-`$ chmod 755 ~/.personal_bin/config`
+`$ chmod 755 /usr/local/bin/config`
 
 `$ [vim] ~/.bash_script`
 
 add the following line to * ~/.bash_profile *
 
 ```bash
-export PATH=$PATH:.:$HOME/.personal_bin:
+export PATH=$PATH:.
 
 ```
 
